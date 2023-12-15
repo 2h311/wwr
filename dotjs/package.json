@@ -1,0 +1,18 @@
+{
+  "name": "dotjs",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "a roadside project that could potentially grow beyond helping me alone",
+  "main": "wwr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "nodemailer": "^6.9.7",
+    "pretty": "^2.0.0"
+  }
+}
